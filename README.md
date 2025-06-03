@@ -95,7 +95,7 @@ gisp-portfolio/
 
 - **Location:** Springfield, Massachusetts
 - **Availability:** MA/CT/NH travel for emergency response and projects
-- **LinkedIn:** [Luis Antonio Santiago-Ramirez](https://www.linkedin.com/in/luisantoniosantiago-ramirez70b418196)
+- **LinkedIn:** [Luis Antonio Santiago-Ramirez](https://linkedin.com/in/luisantoniosantiago-ramirez-70b418196)
 - **GitHub:** [SantRamLAnt](https://github.com/SantRamLAnt)
 - **Email:** Available upon request for professional opportunities
 
