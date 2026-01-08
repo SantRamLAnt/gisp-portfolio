@@ -15,7 +15,7 @@ This repository contains my professional GIS portfolio demonstrating readiness f
 
 ## 🌐 Live Portfolio Website
 
-**Visit the live portfolio:** <https://santramlant.github.io/gisp-portfolio/>
+**Visit the live portfolio:** file:///Users/lasr/Downloads/gisp_update/index.html 
 
 ## 🎓 Education Component (4+ Points)
 
